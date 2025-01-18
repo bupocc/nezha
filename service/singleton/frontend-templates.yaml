@@ -16,3 +16,8 @@
   repository: "https://github.com/hi2shark/nazhua"
   author: "hi2hi"
   version: "v0.5.1"
+- path: "nezha-dash-v1-edit"
+  name: "nezha-dash-v1-edit"
+  repository: "https://github.com/bupocc/nazhua"
+  author: "bupocc"
+  version: "v1.12.5"
